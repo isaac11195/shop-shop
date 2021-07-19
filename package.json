@@ -17,6 +17,6 @@
     "concurrently": "^5.1.0"
   },
   "dependencies": {
-    "stripe": "^8.163.0"
+    "if-env": "^1.0.4"
   }
 }
